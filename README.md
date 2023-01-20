@@ -17,7 +17,7 @@ Coming up with analyses was a major part of the project, and afer rejecting over
 I use a dataset of about 150,000 values and try to classify the disposition of a case into either "convicted" or "acquitted" based on various factors detailed in the notebook
 
 ## How to run
-Since the datasets used in the notebooks are publicly available on kaggle, they can be run on kaggle itself without any problems.
+Since the datasets used in the notebooks are publicly available on kaggle, they can be run on kaggle itself without any problems. The jupyter notebooks themselves are available at [my kaggle page](https://www.kaggle.com/viciousaegis/code)
 
 ## Dependencies
 ```
