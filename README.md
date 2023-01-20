@@ -18,3 +18,11 @@ I use a dataset of about 150,000 values and try to classify the disposition of a
 
 ## How to run
 Since the datasets used in the notebooks are publicly available on kaggle, they can be run on kaggle itself without any problems.
+
+## Dependencies
+```
+Numpy
+Pandas
+Sklearn
+Matplotlib
+```
